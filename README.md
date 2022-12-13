@@ -15,8 +15,8 @@
   </p>
   </div>
   
-  ![Snake animation](https://github.com/EmmanuelStocco/EmmanuelStocco/blob/output/github-contribution-grid-snake.svg)
-  
+<!--   ![Snake animation](https://github.com/EmmanuelStocco/EmmanuelStocco/blob/output/github-contribution-grid-snake.svg)
+   -->
 
 
 
